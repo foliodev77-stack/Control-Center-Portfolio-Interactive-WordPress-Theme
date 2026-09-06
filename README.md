@@ -15,6 +15,10 @@ A futuristic iOS-inspired WordPress portfolio theme featuring glassmorphism UI, 
 - Generic demo projects and placeholder contact details
 - WordPress-ready theme structure
 
+  <img width="688" height="911" alt="image" src="https://github.com/user-attachments/assets/f6c0a02a-5815-43b5-bc35-eaa45e855b75" />
+
+
+
 ## Installation
 
 1. Download or clone this repository.
